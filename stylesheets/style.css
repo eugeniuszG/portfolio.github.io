@@ -1,0 +1,49 @@
+.nav-item {
+  font-family: 'Karla', sans-serif;
+  font-size: 25px;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.font-klara {
+  font-family: 'Karla', sans-serif;
+  font-size: 40px !important;
+}
+.font-klara-20 {
+  font-family: 'Karla', sans-serif;
+  font-size: 20px;
+}
+
+.height-60 {
+  height:60vh;
+}
+
+.portfolio-photo {
+  width: 250px !important;
+  height: 250px !important;
+}
+
+.color-light-grey {
+  background-color: #E1E1E1;
+}
+
+.underline {
+  width:120px;
+  height:5px;
+}
+
+.width-200 {
+  width:200px;
+}
+.width-18rem {
+  width: 18rem;
+}
+
+
+.about-picture {
+  background: url(../Images/cosmic.jpg);
+  background: center;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+}
